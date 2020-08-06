@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+i=1
+
+for file in *.gif ; do
+  printf '![%s](./%s)' ${file} ${file}
+  if ((i%10)) ; then
+    printf ' '
+  else 
+    printf '\n\n'
+  fi
+  ((i++))
+done
