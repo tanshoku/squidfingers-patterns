@@ -31,4 +31,4 @@ Patterns from squidfingers.com/patterns, since that website has been gone for a 
 
 All those files belong to their original creator, and I claim no ownership or rights over them. Those files are provided "as-is", and this repository is here archival purposes.
 
-The majority of those files came from The Internet Archive. Some of the misshing ones from there are from [here](http://cs.gettysburg.edu/~duncjo01/archive/patterns/squidfingers/).
+The majority of those files came from The Internet Archive. Some of the missing ones from there are from [here](http://cs.gettysburg.edu/~duncjo01/archive/patterns/squidfingers/).
